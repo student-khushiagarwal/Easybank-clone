@@ -99,7 +99,7 @@ h1,h2,h3{
 }
 
 .img-main{
-    background-image: url(/Users/lenovo/Desktop/study/web_development/tasks/easybank/image-mockups.png);
+    background-image: url(image-mockups.png);
     background-repeat: no-repeat;
     width: 800px;
     height: 900px;
